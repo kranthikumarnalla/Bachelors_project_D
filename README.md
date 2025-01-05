@@ -1,6 +1,9 @@
 # Bachelors_project_D
 
 # APPLICATIONS OF REMOTE SENSING AND BEST MANAGEMENT PRACTISE METHODSFOR FLOOD CONTROL MANAGEMENT IN FLOOD PRONE AREAS OF VIJAYAWADA
+
+Flow direction in the study area:
+
 ![logo](images/flow_direction.jpeg)
 
 Abstract:
